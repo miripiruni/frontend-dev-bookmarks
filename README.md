@@ -211,6 +211,7 @@
             + [Responsive Font Sizing](http://www.newnet-soft.com/blog/responsivefontsizing): Making your font size respond to your screen size, easy & maintainable.
             + [Responsive Measure](http://jbrewer.github.com/Responsive-Measure/)
     + E-Mail
+            + [Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)   
     + Mobile
         + Frameworks
             + [jQuery Mobile](http://jquerymobile.com/): Touch-Optimized Web Framework for Smartphones & Tablets
